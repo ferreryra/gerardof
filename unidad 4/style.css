@@ -1,0 +1,62 @@
+P {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+}
+h1{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    background:#4FFFB0 ;
+
+}
+.prueba{
+    text-transform: uppercase;
+    color: lightblue;
+    font-size: 23px;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: silver;
+   
+    
+}
+.prueba2{
+    background:lightsalmon;
+    font-size: larger;
+    color:black;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 19px;
+    
+}
+h4{
+    font-size: 20px;
+    color:black;
+}
+.prueba3{
+    color:#A3E4D7;
+    font-size: 22px;
+    font-family: sans-serif;
+ 
+}    
+   
+img{
+    height: 200px;
+    width: 200px;
+    margin:auto;
+    display:block;
+    border-radius: 15px;
+    box-shadow: 5px 5px 0;
+   
+} 
+
+    
+    
+    
+    
+
+
+
+    

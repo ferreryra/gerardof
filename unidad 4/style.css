@@ -6,29 +6,53 @@ P {
 h1{
     color:black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 22px;
+    font-size: 23px;
     background:#4FFFB0 ;
+    border-radius: 15px;
+    width: 500px;
+    text-align: center;
+    
+
 
 }
 .prueba{
     text-transform: uppercase;
     color: lightblue;
     font-size: 23px;
+    text-align: center;
 }
 h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: silver;
+    text-align: center;
+    font-size: 30px;
+    background: white;
+    border: 1px solid lightsteelblue;
+    border-radius: 30px;
+    
+    
+
    
     
 }
 .prueba2{
-    background:lightsalmon;
-    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:26px;
     color:black;
+    border: 1px solid lightsteelblue;
+    padding: 10px;
+    
+
+
+
 }
 h3{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 19px;
+    background: chocolate;
+    width: 500px;
+    border-radius: 15px;
+    text-align: center;
     
 }
 h4{
@@ -43,15 +67,32 @@ h4{
 }    
    
 img{
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 400px;
     margin:auto;
     display:block;
     border-radius: 15px;
     box-shadow: 5px 5px 0;
    
 } 
+body{
+    background: blanchedalmond;
+}
+.prueba4{
+    border-radius:10px ;
+    color: crimson;
+    font-size: 22px;
+    
+}
+.menu li{
+    list-style: none;
+    width: 500px;
+    border-radius: 15px;
+}
 
+    
+    
+    
     
     
     

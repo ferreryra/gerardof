@@ -23,6 +23,9 @@
     color: white;
     text-align: center;
     font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
     
     
@@ -38,6 +41,9 @@
     color: white;
     text-align:  center;
     font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
 .iten3{
@@ -49,6 +55,9 @@
     color: white;
     text-align: center;
     font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
  

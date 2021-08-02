@@ -1,0 +1,51 @@
+.contenedor{
+    justify-content: space-between;
+    display: inline-flex;
+    
+    background-color: yellow;
+    width: 300px;
+    height: 200px;
+    border-radius: 5px solid black;
+
+}
+.iten1{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 1px solid black;
+    color:white;
+    margin-top: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.iten2{
+    background-color:blue;
+    width: 50px;
+    height: 50px;
+    border-radius: 1px solid black;
+    color:white;
+    margin-top: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
+.iten3{
+    background-color:green;
+    width: 50px;
+    height: 50px;
+    border-radius: 1px solid black;
+    color:white;
+    margin-top: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
+.hr{
+    
+   
+    
+    
+}

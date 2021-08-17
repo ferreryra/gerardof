@@ -84,6 +84,7 @@ footer{
     background: -webkit-linear-gradient(113deg,#23a4cf 0%, #222b22 80%);
     background: -moz-linear-gradient(113deg,#23a4cf 0%, #222b22 80%); ;*/
     border: 2px solid grey;
+    margin-top: 10px;
     
 }    
     
@@ -158,6 +159,22 @@ footer{
         transform: rotate(15deg);
     
      }
+     .columnas{
+         display: flex;
+         justify-content: initial;
+         color: white;
+     }
+     h4{
+         font-size: 25px;
+         color: white;
+     }
+     
+
+
+
+
+
+     
     
      
 
